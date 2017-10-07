@@ -1,0 +1,3 @@
+vimset.sh는 쉘스크립트로 vim 번들을 설치하는 스크립트이다 그리고
+.vimrc는 내가 vim 셋팅한 값을 저장해놓은 파일이다.
+.ycm_extra_conf.py 는 ~/.vim/여기다가 설치해준다.
