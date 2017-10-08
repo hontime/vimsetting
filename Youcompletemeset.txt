@@ -23,3 +23,4 @@ let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/
 ~ / .vim / bundle / YouCompleteMe로 이동하여 ./install.sh --clang-completer 
 
 하고 저장 나가면됨 그리고 c확장자로해서 파일 열어서 자동완성되나 테스트해보자
+그리고 옵션 더 추가해주자 
